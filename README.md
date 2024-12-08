@@ -1,6 +1,10 @@
 # 🛍️ Retail Store Inventory Forecasting
 ![Sales-Forecasting](https://github.com/user-attachments/assets/2fa747de-45e2-4d37-8fa4-969349ea0b6a)
 
+Kaggle link = Opens faster than GitHub
+
+https://www.kaggle.com/code/hikoder/retail-store-inventory-forecasting
+
 🌩️What is Forecasting?
 Forecasting involves making educated guesses about future events that could affect a company. Businesses can predict sales, finances, customer demand, and market changes by examining past data, trends, and patterns. Forecasting helps companies make decisions, plan, and manage risks.
 
