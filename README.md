@@ -34,10 +34,6 @@ Optimize inventory levels by analyzing sales trends and minimizing stockouts whi
 
 -Forecast visualizing for inventory level and demand forecast 
 
-📋Preprocessing:
-
--Label Encoder
-
 ⚙️Feature Engineering:
 
 -Extracting temporal features (day, month, year, holidays)
